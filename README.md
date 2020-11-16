@@ -1,5 +1,5 @@
 ### Hi there 👋
-##studying now
+## studying now
 Github
 Houdini
 Unreal
